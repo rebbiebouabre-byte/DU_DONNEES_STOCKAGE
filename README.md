@@ -11,3 +11,6 @@ Ce document a été créé dans le cadre du module Stockage des données du DU D
 Tester les fonctionnalités de gestion documentaire et de suivi des versions proposées par GitHub.
 
 Auteur : Priscille Bouabré
+Version 2 du document créée pour démontrer le suivi des versions sur GitHub.
+
+Date : Mai 2026
